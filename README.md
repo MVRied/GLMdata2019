@@ -1,2 +1,2 @@
 # GLMdata2019
-N=60, quasi-experimental design 
+N=102, quasi-experimental design 
